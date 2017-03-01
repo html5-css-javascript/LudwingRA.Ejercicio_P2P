@@ -1,0 +1,43 @@
+
+body{
+	background: #D2B48C;
+}
+
+h1{
+	color: #A0522D;
+	font-family: 'Lobster', cursive;
+	font-size: 50px;
+}
+
+.parrafo{
+	color: #D2691E;
+	font-family: 'Pacifico', cursive;
+	font-size: 30px;
+}
+
+.parrafo strong{
+	color: red;
+	font-size: 35px;
+}
+
+.parrafo em{
+	color: #A52A2A;
+	font-size: 35px;
+}
+
+ul li{
+	font-family: 'Dancing Script', cursive;
+	font-size: 25px;
+}
+
+.item1{
+	color: #483D8B;
+}
+
+.item2{
+	color: #6A5ACD;
+}
+
+.item3{
+	color:#4B0082;
+}
